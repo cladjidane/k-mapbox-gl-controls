@@ -1,5 +1,5 @@
 {
-  "name": "mapbox-gl-controls",
+  "name": "k-mapbox-gl-controls",
   "version": "1.8.0",
   "main": "./lib/index.js",
   "description": "Controls for mapbox-gl",
@@ -32,7 +32,7 @@
   "peerDependencies": {
     "mapbox-gl": ">=1.0.0 <3.0.0"
   },
-  "homepage": "https://bravecow.github.io/mapbox-gl-controls/",
-  "repository": "bravecow/mapbox-gl-controls",
+  "homepage": "https://cladjidane.github.io/k-mapbox-gl-controls/",
+  "repository": "cladjidane/k-mapbox-gl-controls",
   "license": "MIT"
 }
